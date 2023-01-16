@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋 It's Saeed Firouzi 
 
-<!--
-**saeed5959/saeed5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi,I'm a computer vision and deep learning engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiastic about Deep Learning , Computer Vision, Image Processing , VSLAM, 3D Reconstruction.
+
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently Head of AI team in HighCode company(voicecloner.com)
+- 🌱 I’m currently learning 3D reconstruction, SLAM, VSLAM.
+- 💬 Ask me about anything , Would love to answer them.
+- 📫 How to reach me: saeedmr881@gmail.com
+- <a href="https://www.linkedin.com/in/saeed-firouzi-a00bb120a/">LinkedIn</a>
+- <a href="">Resume</a>
+
+**Languages and Tools:**
+Python, C++
